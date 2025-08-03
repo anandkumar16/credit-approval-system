@@ -55,7 +55,7 @@ http://localhost:8000/api/v1/
 ```
 ## Testing the APIs
 Use this Postman collection with existing APIs to test the project 
-🔗 [Collection](https://.postman.co/workspace/My-Workspace~db1fdf29-298d-4d2b-80fb-6819924b1f7f/collection/32656735-08b49174-a1a8-4f57-8ce3-b0981f7f93a2?action=share&creator=32656735)
+🔗 [Collection]( https://identity.getpostman.com/login?continue=https%3A%2F%2Fgo.postman.co%2Fworkspace%2FMy-Workspace~db1fdf29-298d-4d2b-80fb-6819924b1f7f%2Fcollection%2F32656735-08b49174-a1a8-4f57-8ce3-b0981f7f93a2%3Faction%3Dshare%26creator%3D32656735&intent=switch-account&target_team= )
 
 If using Postman Web, remember to switch to the desktop agent for local requests (bottom right corner in Postman).
 
@@ -75,4 +75,5 @@ Then, add it to .env:
 ```
 SECRET_KEY=your_generated_key_here
 ```
+
 
