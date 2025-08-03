@@ -77,3 +77,9 @@ SECRET_KEY=your_generated_key_here
 ```
 
 
+## Click below to watch the project demo:
+
+👉 [Watch Demo] (https://www.loom.com/share/cfbdb9dd01574997891ac624524c19e1?sid=183910c3-4499-4efe-b988-a2033e8e5ecd)
+
+
+
