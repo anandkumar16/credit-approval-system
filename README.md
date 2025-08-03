@@ -54,7 +54,10 @@ The APIs will be available at:
 http://localhost:8000/api/v1/
 ```
 ## Testing the APIs
-You can test the APIs using Postman or any API client. If using Postman Web, remember to switch to the desktop agent for local requests (bottom right corner in Postman).
+Use this Postman collection with existing APIs to test the project 
+🔗 [Collection](https://.postman.co/workspace/My-Workspace~db1fdf29-298d-4d2b-80fb-6819924b1f7f/collection/32656735-08b49174-a1a8-4f57-8ce3-b0981f7f93a2?action=share&creator=32656735)
+
+If using Postman Web, remember to switch to the desktop agent for local requests (bottom right corner in Postman).
 
 Sample data is preloaded from:
 
@@ -72,3 +75,4 @@ Then, add it to .env:
 ```
 SECRET_KEY=your_generated_key_here
 ```
+
